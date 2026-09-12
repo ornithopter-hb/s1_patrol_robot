@@ -1,0 +1,13 @@
+build/
+*.exe
+*.elf
+*.bin
+*.o
+
+__pycache__
+*.pyc
+.venv/
+venv/
+
+*.mp4
+*.mov
